@@ -18,7 +18,7 @@ export default withConfirm;
 
 Usage
 
-```
+```js
 import withConfirm from './withConfirm';
 
 const myFunction = () => {
